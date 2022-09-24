@@ -1,6 +1,6 @@
 # Overstock
 overstock.com
-# <span style="color:red"> <i class="fa-solid fa-italic">Cloning of [OVERSTOCK](https://overstockk.netlify.app/) WEBSITE</i></span>
+# <span style="color:red"> <i class="fa-solid fa-italic">Cloning of [OVERSTOCK](https://splendorous-trifle-7b92a5.netlify.app/) WEBSITE</i></span>
 
 # <span style="color:red"> Welcome Here!</span>
 
