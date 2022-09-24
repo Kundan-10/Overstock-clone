@@ -87,8 +87,8 @@ We are very thankful for the support of my teammates and instructor for the comp
 
 ## <span style="color:rgb(255, 200, 0)"> Team Members: </span>
 
-- ## Shubham
-[GitHub](https://github.com/Shubhamvumap123)
+- ## Kundan Wakudkar
+[GitHub](https://github.com/Kundan-10)
 
 - ## Krunal
 [GitHub](https://github.com/KrunalBorhade)
