@@ -88,12 +88,3 @@ We are very thankful for the support of my teammates and instructor for the comp
 
 - ## Kundan Wakudkar
 [GitHub](https://github.com/Kundan-10)
-
-- ## Krunal
-[GitHub](https://github.com/KrunalBorhade)
-
-- ## Amaan
-[GitHub](https://github.com/AmaanHaider)
-
-- ## Apoorva
-[GitHub](https://github.com/Apoorva0123)
