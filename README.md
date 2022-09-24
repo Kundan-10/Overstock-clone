@@ -82,9 +82,3 @@ We are very thankful for the support of my teammates and instructor for the comp
 
 
 # <span style="color:rgb(255, 170, 0)"> Thank Your For Reading </span>
-
-
-## <span style="color:rgb(255, 200, 0)"> Team Members: </span>
-
-- ## Kundan Wakudkar
-[GitHub](https://github.com/Kundan-10)
